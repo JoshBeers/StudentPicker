@@ -1,4 +1,4 @@
-# finalproject
+# student picker
 
 A new Flutter application.
 
